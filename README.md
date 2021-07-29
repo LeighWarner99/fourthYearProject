@@ -1,0 +1,2 @@
+# fourthYearProject
+My final year project was based around the development of Convolutional Neural Networks in machine learning. During this project I augmented data to expand my dataset, created CNN's and made predictions on the seven basic human emotions. From there I compared the predictions from my own models and of existing models and that are widely used in Machine Learning, models like VGG16, RESNET50, and Inception3 models that can be used for image classification.
